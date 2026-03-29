@@ -145,4 +145,4 @@ If we make significant changes to this policy, we will notify you via in-app not
 ### 10. Contact
 
 For privacy-related inquiries:
-**Email:** guojin.dev@gmail.com
+**Email:** alice.nanterre@outlook.com
